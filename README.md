@@ -9,6 +9,7 @@ Soy un entusiasta de la ciberseguridad y estoy documentando activamente mi viaje
 
 ### 👨‍💻 Sobre Mí
 
+Interés:
 * Actualmente estoy aprendiendo **hacking ético**, con un enfoque ofensivo y defensivo (Purple Team)
 * Aprendiendo acerca de ciberseguridad tanto en máquinas CTF Linux y Windows
 * Mi objetivo es dominar las metodologías de pentesting, defensa y construir un portafolio sólido.
@@ -29,7 +30,8 @@ Aquí es donde documento mi trabajo. ¡Mi repositorio más activo es el de CTFs!
 Estas son algunas de las herramientas que uso en mi día a día:
 
 * **Redes:** `nmap`, `wireshark`
-* **Análisis Web:** `burpsuite`
+* **Análisis Web:** `burpsuite`,`gobuster`
+* **Ataque fuerza bruta:** `hydra`,`john the ripper`
 * **IoT:** `mosquitto-clients`
 * **Generales:** `bash`, `python`, `git`
 
